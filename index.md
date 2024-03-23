@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Jekyll-WikiBonsai
+title: korok4est
 ---
 
 > “It is important to view knowledge as a sort of semantic tree. Make sure you understand the fundamental principles, i.e., the trunk and big branches before you get into the leaves/details or there is nothing for them to hang on to.”
