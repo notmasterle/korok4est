@@ -7,4 +7,4 @@ title: korok4est
 >
 > ~masterle
 
-**walcam** to the korok4est. 
+walcam to the korok4est. 
